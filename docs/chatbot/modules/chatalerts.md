@@ -17,7 +17,6 @@ keywords:
 The chatalerts module is a feature that allows the chatbot to post messages in the chat when certain events occur. These events can include, but are not limited to:
 
 - Receiving a tip
-- Gaining a new follower
 - Being raided
 - Ad breaks
 - New subscribers
@@ -38,7 +37,6 @@ This module helps to acknowledge and appreciate the actions of the viewers, enha
 
 ### Event Descriptions
 
-- **Followers**: Alerts when a user follows the channel.
 - **Tips**: Alerts when a user tips the streamer.
 - **Ad Breaks**: Alerts when an ad break starts.
 - **Subscribers**: Alerts when a user subscribes to the channel.
