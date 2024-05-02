@@ -26,13 +26,13 @@ The `!followage` command is used to check how long a user has been following the
 ### Example Input
 
 ```
-!followage styler darkoe
+!followage styler Quiin
 ```
 
 ### Example Output
 
 ```
-@Adeithe, styler has been following darkoe for 7 years 6 months 20 days 12 hours
+@Adeithe, styler folgt Quiin schon seit 7 Jahren 6 Monaten 20 Tagen und 12 Stunden
 
-@Adeithe, styler is not following darkoe
+@Adeithe, styler folgt Quiin nicht... quiin2Frech
 ```
